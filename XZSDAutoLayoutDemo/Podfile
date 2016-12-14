@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+
+target 'XZSDAutoLayoutDemo' do
+pod 'SDAutoLayout', '~> 2.1.7'
+end
